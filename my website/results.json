@@ -1,0 +1,22 @@
+{
+  "F1910500238": {
+    "Student_Name": "NAIKWADI PRANJALI RAJENDRA",
+    "Mother_Name": "SUNITA",
+    "College_Name": "105 NBN SINHGAD TECHNICAL INSTITUTES CAMPUS",
+    "Perm_Reg_No": "72219132E",
+    "Branch_Course": "F.E.(2019 CREDIT PAT.) OCT-NOV 2024",
+    "Center": "105",
+    "Result_Date": "12 February 2025",
+    "Total_Credits": 44,
+    "SGPA": 7.38,
+    "Subjects": [
+      { "Sem": 1, "SubCode": "101007", "Subject_Name": "ENVIRONMENTAL STUDIES-I", "Credits": 0, "Grade": "AC", "Grade_Points": 0 },
+      { "Sem": 1, "SubCode": "102003", "Subject_Name": "SYSTEMS IN MECH. ENGG.", "Credits": 1, "Grade": "C", "Grade_Points": 7 },
+      { "Sem": 1, "SubCode": "102003", "Subject_Name": "SYSTEMS IN MECH. ENGG.", "Credits": 3, "Grade": "A", "Grade_Points": 27 },
+      { "Sem": 1, "SubCode": "104010", "Subject_Name": "BASIC ELECTRONICS ENGG.", "Credits": 3, "Grade": "B", "Grade_Points": 30 },
+      { "Sem": 1, "SubCode": "104010", "Subject_Name": "BASIC ELECTRONICS ENGG.", "Credits": 1, "Grade": "C", "Grade_Points": 7 },
+      { "Sem": 2, "SubCode": "101011", "Subject_Name": "ENGINEERING MECHANICS", "Credits": 1, "Grade": "D", "Grade_Points": 6 },
+      { "Sem": 2, "SubCode": "101011", "Subject_Name": "ENGINEERING MECHANICS", "Credits": 3, "Grade": "C", "Grade_Points": 12 }
+    ]
+  }
+}
